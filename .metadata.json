@@ -1,0 +1,10 @@
+[
+  {
+    "package": "msgl",
+    "oncran": true
+  },
+  {
+    "package": "sglOptim",
+    "oncran": true
+  }
+]
